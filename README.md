@@ -1,7 +1,8 @@
 #  IMDb Sentiment Analysis — NLP Project
 
 **Classical Machine Learning with TF-IDF, Word2Vec, and GloVe Embeddings**
-
+This repository contains a Natural Language Processing (NLP) project that classifies movie reviews from the IMDB 50K dataset into positive or negative sentiment categories.
+Dataset Source: https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 ---
 
 ##  Overview
